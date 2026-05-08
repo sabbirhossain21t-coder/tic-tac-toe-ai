@@ -17,7 +17,7 @@ A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 
 ## 📸 Preview
 
-![Game Screenshot](screenshot/log.png)
+![Game Screenshot](screenshot.png/log.jpg)
 
 ## 🛠️ Tech Stack
 
