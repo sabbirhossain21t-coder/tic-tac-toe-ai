@@ -33,4 +33,4 @@ tic-tac-toe-ai/
 
 ## 📸 Preview
 
-![Game Screenshot](screenshot/logo.jp
+![Game Screenshot](screenshot/logo.jpg
